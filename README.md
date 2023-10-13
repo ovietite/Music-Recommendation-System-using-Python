@@ -1,0 +1,2 @@
+# Music-Recommendation-System-using-Python
+A Music Recommendation System is a Data Science application designed to help users uncover fresh and suitable music based on their tastes and listening habits. Customized music suggestions are now a crucial feature in the digital music realm, enhancing the user experience on platforms like Spotify and Apple Music. If you're interested in constructing a music recommendation system, this article is just what you need. Within this piece, I will guide you in creating a Music Recommendation System utilizing the Spotify API and Python.
